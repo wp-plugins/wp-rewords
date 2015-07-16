@@ -11,8 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Replaces the page title by looking at the URL parameters. Display a relevant tile for your campaign ads.
 
 == Description ==
-
-## What does the plugin do?
+What does the plugin do?
 The WP Rewords plugin allows you to display a different page or post titles by looking at the url parameters.
 All advertising and engagement platforms like Google Adwords, Facebook Ads, Mailchimp allow you to create a custom urls to the same landing page for each campaign or segment so you can track specific performance.
 
