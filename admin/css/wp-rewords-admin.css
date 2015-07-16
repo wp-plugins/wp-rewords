@@ -1,0 +1,61 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.wp_rewords_settings label{
+    font-weight: bold;
+}
+
+.wp_rewords_campaign_content {
+    display: none;
+}
+
+.wp_rewords_settings th {
+    width: 150px;
+}
+
+.wp_rewords_submitadd {
+    width: 100px;
+}
+
+.wp_rewords_settings label {
+    display: inline-block;
+}
+
+.wp_rewords_settings select,
+.wp_rewords_settings input {
+    width: 99%;
+    display: inline;
+}
+
+.wp_rewords_submitbox {
+    padding: 10px;
+    clear: both;
+    border-top: 1px solid #DDD;
+    background: #F5F5F5;
+    overflow: hidden;
+    margin: 12px -12px -12px -12px;
+}
+
+.wp_rewords_submitbox .submitdelete {
+    text-decoration: none;
+    padding: 1px 2px;
+    color: #A00;
+}
+
+.wp_rewords_invalid {
+    border: 1px solid red !important;
+}
+
+.wp_rewords_notice-error {
+    display: none;
+}
+.wp_rewords_notice-error .error-alert {
+    background: hsl(0, 100%, 100%);
+    border-left: 4px solid hsl(0, 100%, 100%);
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    padding: 1px 12px;
+    border-color: hsl(3, 71%, 54%);
+}
