@@ -27,7 +27,7 @@ http://exmaple.com/landing-page/?utm_source=adwords&utm_medium=cpc&utm_campaign=
 
 WP Rewords allows you to take this one step further. You can now replace the title with custom text for each of these campaigns / ads.
 
-## Using the plugin
+Using the plugin
 In the Wordpress admin dashboard, edit the page / post / custom post page such as woocommerce product page - where you want to replace the title text and look for the WP Rewords section.
 
 Simply add a new campaign, name it, specify the title to be displayed, and paste in the campaign id or full url.
