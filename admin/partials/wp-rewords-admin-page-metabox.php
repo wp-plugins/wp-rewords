@@ -45,7 +45,7 @@
                  <label>Campaign Name:</label>
              </th>
              <td>
-                 <input class="wp_rewords_name" type="text" name="wp_rewords_name" value="" required/>
+                 <input class="wp_rewords_name" type="text" name="wp_rewords_name" value=""/>
                  <div>Campaign name for internal use</div>
 
              </td>
@@ -55,7 +55,7 @@
                  <label>Campaign Page Title:</label>
              </th>
              <td>
-                 <input class="wp_rewords_title" type="text" name="wp_rewords_title" value="" required/>
+                 <input class="wp_rewords_title" type="text" name="wp_rewords_title" value=""/>
                  <div>Title of the Page</div>
 
              </td>
@@ -65,7 +65,7 @@
                  <label>Campaign URL:</label>
              </th>
              <td>
-                 <input class="wp_rewords_url" type="text" name="wp_rewords_url" value="" required/>
+                 <input class="wp_rewords_url" type="text" name="wp_rewords_url" value=""/>
                  <div>Any campaign URL that will activate the title <br></div>
              </td>
          </tr>
@@ -109,7 +109,7 @@
                     <label>Campaign Name:</label>
                 </th>
                 <td>
-                    <input class="wp_rewords_edit_name" type="text" name="wp_rewords_name" value="{{name}}" required/>
+                    <input class="wp_rewords_edit_name" type="text" name="wp_rewords_name" value="{{name}}"/>
                     <div>Campaign name for internal use</div>
                 </td>
            </tr>
@@ -118,7 +118,7 @@
                     <label>Campaign Page Title:</label>
                 </th>
                 <td>
-                    <input class="wp_rewords_edit_title" type="text" name="wp_rewords_title" value="{{title}}" required/>
+                    <input class="wp_rewords_edit_title" type="text" name="wp_rewords_title" value="{{title}}"/>
                     <div>Title of the Page</div>
                 </td>
            </tr>
@@ -127,7 +127,7 @@
                     <label>Campaign URL:</label>
                 </th>
                 <td>
-                    <input class="wp_rewords_edit_url" type="text" name="wp_rewords_url" value="{{url}}" required/>
+                    <input class="wp_rewords_edit_url" type="text" name="wp_rewords_url" value="{{url}}"/>
                     <div>Any campaign URL that will activate the title <br></div>
                 </td>
            </tr>
